@@ -1,7 +1,6 @@
 Hi 👋 My name is João Victor Ribeiro
 ====================================
-
-FrontEnd Developer
+Developer
 ------------------
 
 \- Apaixonado por desenvolvimento. - Front-end : habilidades em HTML, CSS, JavaScript, React(Hooks, Styled Components, Class Components, React-Testing-library) e Redux. - Back-end: Java(Maven, SpringBoot, hibernate, liquibase, JPA), Node.js( TypeScript, TypeOrm, Express), PostgreSQL, Docker; - Sempre em busca de conhecimento e aprendizado.
