@@ -7,7 +7,7 @@ Developer
 
 *   🌍  I'm based in Contagem, Brazil
 *   ✉️  You can contact me at [joaovenus@gmail.com](mailto:joaovenus@gmail.com)
-*   🚀  I'm currently working on [Clipping CACD](http://clippingcacd.com.br/)
+*   🚀  I'm currently working on [Kanttum](https://kanttum.com.br/)
 *   🧠  I'm learning I'm in constant learning mainly with ReactJS, but always looking for new technologies and better solutions to my problems
 
 ### Skills
